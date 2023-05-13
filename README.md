@@ -94,7 +94,7 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
 ## Estructura de proyecto
   <ul>
       <li>
-          Proyecto1-STW
+          ReactApp
           <br>
           En este se alojan todas las configuraciones del proyecto, de misma manera aquí mismo se crea el dist de webpack     
       </li>
