@@ -14,7 +14,8 @@ La página web tendrá un diseño atractivo y moderno, y estará desarrollada ut
 Nuestro equipo está formado por desarrolladores web experimentados y apasionados por la moda, y trabajaremos incansablemente para asegurarnos de que la página web de la tienda de ropa cumpla con todos los requisitos del cliente y supere sus expectativas.
 
 ## ENTREGAS SCRUM 
-En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de este proyecto, ademas puedes dar click <a href='./Entregas SCRUM'>AQUÍ.</a>
+En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de este proyecto, ademas puedes dar click <a href='./Entregas SCRUM'>AQUÍ</a> para ver la carpeta con las entregas.
+
 ### Sprints 
 <ul>
     <li>
