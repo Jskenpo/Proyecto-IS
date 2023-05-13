@@ -94,27 +94,27 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
 ## Estructura de proyecto
   <ul>
       <li>
-          ReactApp
+          <a href='./ReactApp'>ReactApp</a>
           <br>
           En este se alojan todas las configuraciones del proyecto, de misma manera aquí mismo se crea el dist de webpack     
       </li>
       <li>
-          <a href='./src'>src</a>
+          <a href='./ReactApp/src'>src</a>
           <br>
           Es la carpeta en la que se alojan todos los componentes y sus estilos, los archivos multimedia que utiliza el proyecto y el index.js en el que se renderiza la aplicación de React
       </li>
       <li>
-          <a href='./src/imas'>imas</a>
+          <a href='./ReactApp/src/imas'>imas</a>
           <br>
           Carpeta en donde están todos los archivos multimedia que se utilizan en el proyecto
       </li>
       <li>
-          <a href='./src/components'>Components</a>
+          <a href='./ReactApp/src/components'>Components</a>
           <br>
           Carpeta en donde se alojan todos loc componentes de react
       </li>
       <li>
-          <a href='./dist_react'>dist_react</a>
+          <a href='./ReactApp/dist_react'>dist_react</a>
           <br>
           Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archivos, los cuales son index.html y main.bundle.js. Adicionalmente se encuentra una carpeta 'imágenes' en donde se almacenan todos los archivos multimedia
       </li>
