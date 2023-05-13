@@ -2,7 +2,7 @@
     <img src="./ReactApp/src/imas/cositamiaLogo.png" alt="Descripción de la imagen" style="width: 200px; height: auto;"/>
 </p>
 
-# CREACIÓN DE PÁGINA WEB DE COITA MÍA
+# CREACIÓN DE PÁGINA WEB DE COSITA MÍA
 
 ## Introducción
 ¡Bienvenido/a al proyecto de la página web de la tienda de ropa Cositamia! Este proyecto tiene como objetivo desarrollar una página web para una tienda de ropa en línea, con el fin de brindar una experiencia de compra fácil y agradable para los clientes.
@@ -89,7 +89,7 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
 `npm run start` crea un entrono de ejecucion de webpack que se actualiza en tiempo real, creando un dist virtual y alojandolo en el servidor local configurado.
     <br>
     <br>
-`npm run start-webpack` crea una parqueta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
+`npm run start-webpack` crea una carpeta dist_react en donde se alojarán los archivos comprimidos de todo el proyecto en un index.html y un main.bundle.js, para poder usar         la aplicacion tienes que abrir el index.html en un servidor local.
 
 ## Estructura de proyecto
   <ul>
