@@ -18,7 +18,7 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
 ### Sprints 
 <ul>
     <li>
-        <a href='./Entregas SCRUM/Primer Sprint Scum.pdf'>SPRINT 1</a>
+        <a href='./Entregas SCRUM/Primer Sprint Scum .pdf'>SPRINT 1</a>
     </li>
 </ul>
 
