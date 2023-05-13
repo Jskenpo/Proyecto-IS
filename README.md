@@ -63,13 +63,6 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
         https://swiperjs.com/get-started
     </li>
     <li>
-        <img src="./ReactApp/src/imas/firebase.png" style= "width: 30px; height: auto;"/> Firebase
-        <br>
-        Documentación
-        <br>
-        https://firebase.google.com/docs?hl=es-419
-    </li>
-    <li>
         <img src="./ReactApp/src/imas/sass.png" style= "width: 30px; height: auto;"/> Sass, Scss
         <br>
         Documentación
@@ -124,6 +117,11 @@ En la carpeta llamada Entregas SCRUM  están todas la entregas de los sprints de
           <a href='./dist_react'>dist_react</a>
           <br>
           Es la compilación de entorno de ejecución webpack en donde se aloja el proyecto completo en solo dos archivos, los cuales son index.html y main.bundle.js. Adicionalmente se encuentra una carpeta 'imágenes' en donde se almacenan todos los archivos multimedia
+      </li>
+      <li>
+          <a href='./Entregas SCRUM'>Entregas SCRUM</a>
+          <br>
+          En esta carpeta se alojan todas las entregas de los sprints y cualquier metodoloía de SCRUM
       </li>
   </ul>
 
